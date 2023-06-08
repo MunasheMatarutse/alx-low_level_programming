@@ -47,3 +47,4 @@ void print_buffer(char *b, int size)
 			i += 10;
 		}
 	}
+}
